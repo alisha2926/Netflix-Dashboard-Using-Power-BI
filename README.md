@@ -45,6 +45,6 @@ The project uses a historical dataset of Netflix's stock prices. The data includ
 
 
 ## Output
-<img src = "">
-<img src = "">
-<img src = "">
+<img src = "https://github.com/alisha2926/Netflix-Dashboard-Using-Power-BI/blob/main/Dashboard%20Image/Capture1.PNG">
+<img src = "https://github.com/alisha2926/Netflix-Dashboard-Using-Power-BI/blob/main/Dashboard%20Image/Capture2.PNG">
+<img src = "https://github.com/alisha2926/Netflix-Dashboard-Using-Power-BI/blob/main/Dashboard%20Image/Capture3.PNG">
