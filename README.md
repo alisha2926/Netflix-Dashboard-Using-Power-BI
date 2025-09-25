@@ -17,7 +17,8 @@ To view and interact with this dashboard, you will need:
 - Power BI Desktop: The native application required to open and edit the .pbix file.
 
 - Windows Operating System: Power BI Desktop is primarily built for Windows.
-
+## Dataset Used 
+- <a href = "https://github.com/alisha2926/Netflix-Dashboard-Using-Power-BI/blob/main/Netflix%20Stock%20Market.xlsx"> Dataset </a>
 ## Data Source
 The project uses a historical dataset of Netflix's stock prices. The data includes the following key columns:
 
@@ -41,3 +42,9 @@ The project uses a historical dataset of Netflix's stock prices. The data includ
 - Interact with the Slicer: Use the quarter slicer to filter the data and view stock performance for a specific quarter.
 
 - Explore Visuals: Click on different years in the charts to cross-filter other visuals and gain deeper insights.
+
+
+## Output
+<img src = "">
+<img src = "">
+<img src = "">
